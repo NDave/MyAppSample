@@ -1,2 +1,2 @@
 # MyApp
-This is my App
+This is my first app on GitHub
